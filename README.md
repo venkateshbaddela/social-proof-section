@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop-first-design](./screenshot.jpg)
+![Desktop-first-design](https://user-images.githubusercontent.com/84497133/119783097-82bd4980-beea-11eb-8ad9-d2b06e56190b.png)
 
 ### Links
 
